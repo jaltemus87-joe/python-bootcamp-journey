@@ -1,5 +1,9 @@
 # python-bootcamp-journey
 My real progress through Angela Yu's 100 Days of Python bootcamp
+
+# Disclaimer
+All credit for the course content and projects goes to Dr. Angela Yu. This repo contains only my personal solutions and notes.
+
 # Python Bootcamp Journey
 
 This is my **real, honest** progress going through Angela Yu's 100 Days of Python bootcamp.
